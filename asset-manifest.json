@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.91b42e72.css",
-    "main.js": "/static/js/main.8e97a3c0.js",
+    "main.css": "/static/css/main.bcdbe137.css",
+    "main.js": "/static/js/main.f3ea69bf.js",
     "static/js/453.a7db6537.chunk.js": "/static/js/453.a7db6537.chunk.js",
+    "static/media/NanumSquareNeo-Variable.ttf": "/static/media/NanumSquareNeo-Variable.7e8297962f234fc4aa4b.ttf",
+    "static/media/NanumSquareNeo-bRg.ttf": "/static/media/NanumSquareNeo-bRg.5076032d79b49a26baa2.ttf",
+    "static/media/NanumSquareNeo-aLt.ttf": "/static/media/NanumSquareNeo-aLt.ca4d63a8881f4ca17239.ttf",
+    "static/media/NanumSquareNeo-cBd.ttf": "/static/media/NanumSquareNeo-cBd.7f4dbb792cbda9fc36a4.ttf",
+    "static/media/NanumSquareNeo-dEb.ttf": "/static/media/NanumSquareNeo-dEb.4faa8cb4c1d276609ee8.ttf",
+    "static/media/NanumSquareNeo-eHv.ttf": "/static/media/NanumSquareNeo-eHv.ae9b1d2bc5eda16ab47c.ttf",
     "index.html": "/index.html",
-    "main.91b42e72.css.map": "/static/css/main.91b42e72.css.map",
-    "main.8e97a3c0.js.map": "/static/js/main.8e97a3c0.js.map",
+    "main.bcdbe137.css.map": "/static/css/main.bcdbe137.css.map",
+    "main.f3ea69bf.js.map": "/static/js/main.f3ea69bf.js.map",
     "453.a7db6537.chunk.js.map": "/static/js/453.a7db6537.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91b42e72.css",
-    "static/js/main.8e97a3c0.js"
+    "static/css/main.bcdbe137.css",
+    "static/js/main.f3ea69bf.js"
   ]
 }
