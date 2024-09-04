@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea02f0c8.css",
-    "main.js": "/static/js/main.ceb64f23.js",
-    "index.html": "/index.html",
-    "main.ea02f0c8.css.map": "/static/css/main.ea02f0c8.css.map",
-    "main.ceb64f23.js.map": "/static/js/main.ceb64f23.js.map"
+    "main.css": "/JavachipPrjt_01/static/css/main.ea02f0c8.css",
+    "main.js": "/JavachipPrjt_01/static/js/main.ceb64f23.js",
+    "index.html": "/JavachipPrjt_01/index.html",
+    "main.ea02f0c8.css.map": "/JavachipPrjt_01/static/css/main.ea02f0c8.css.map",
+    "main.ceb64f23.js.map": "/JavachipPrjt_01/static/js/main.ceb64f23.js.map"
   },
   "entrypoints": [
     "static/css/main.ea02f0c8.css",
